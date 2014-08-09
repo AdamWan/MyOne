@@ -1,0 +1,24 @@
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe.config
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.XML
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.pdb
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\FSharp.Core.dll
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\FSharp.Core.xml
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Jake\Desktop\F#\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.pdb
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.XML
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe.config
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.pdb
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\FSharp.Core.dll
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\bin\Debug\FSharp.Core.xml
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Jake\Documents\Visual Studio 2013\Samples\Example of math, variables, and if statements\F#\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.pdb
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe.config
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.XML
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\Example_of_math__variables__and_if_statements.pdb
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\FSharp.Core.dll
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\bin\Debug\FSharp.Core.xml
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.exe
+C:\Users\Adam\Documents\GitHub\MyOne\OK\Example of math, variables, and if statements\obj\Debug\Example_of_math__variables__and_if_statements.pdb

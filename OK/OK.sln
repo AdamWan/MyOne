@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Example of math, variables, and if statements", "Example of math, variables, and if statements\Example of math, variables, and if statements.fsproj", "{5792CE44-9903-4378-AE75-B81E5436261A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA064D90-D5D4-4A6D-B536-9DD32B2667E3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\3PRHZZH1.41N\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\3PRHZZH1.41N\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5792CE44-9903-4378-AE75-B81E5436261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5792CE44-9903-4378-AE75-B81E5436261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5792CE44-9903-4378-AE75-B81E5436261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5792CE44-9903-4378-AE75-B81E5436261A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
