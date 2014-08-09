@@ -64,6 +64,7 @@
     <EmbeddedResource Include="no.bmp" />
     <EmbeddedResource Include="yes.bmp" />
     <EmbeddedResource Include="icon.ico" />
+    <Content Include="TestFile.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
